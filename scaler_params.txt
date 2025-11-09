@@ -1,0 +1,8 @@
+// Copy these values to your Arduino code:
+
+// Pressure range: 1006.86 to 1007.97 hPa
+// Temperature range: 28.90 to 30.90 °C
+// Altitude range: 44.05 to 53.17 m
+
+const float data_min[3] = {1006.86, 28.90, 44.05};
+const float data_max[3] = {1007.97, 30.90, 53.17};
